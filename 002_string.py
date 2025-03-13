@@ -16,3 +16,10 @@ message_fstring=f"{my_sentence} {new_message}"
 print(message_fstring)
 print(dir(my_sentence))
 print(help(str.replace))
+
+
+
+
+
+
+

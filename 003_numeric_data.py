@@ -25,3 +25,7 @@ num_3="20"
 num_3=int(num_3)
 print(num_3)
 
+
+
+
+
