@@ -1,0 +1,25 @@
+[
+{
+"name":"raodat"
+"age":15
+"class":"ss2"
+"subjects":["basic science","computer","english","maths"]
+"contacts details":{"email":"raodat@gmail.com","phone number":+2348017654329}
+},
+
+{
+"name":"motunrayo"
+"age":12
+"class":"js1"
+"subjects":["maths","english","computer","home economics","agric"]
+"contact details":{"email":"motunrayo@gmail.com","phone":+2347078965490}
+},
+
+{
+"name":"aminat"
+"age":16
+"class":"ss3"
+"subjects":["english","agric","maths","physics"]
+"contact details":{"email":"aminat@gmail.com","phone":+2349087609542}
+}
+]
