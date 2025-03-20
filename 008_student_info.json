@@ -4,7 +4,7 @@
 "age":15
 "class":"ss2"
 "subjects":["basic science","computer","english","maths"]
-"contacts details":{"email":"raodat@gmail.com","phone number":+2348017654329}
+"contacts details":{"email":"raodat@gmail.com","phone number":"+2348017654329"}
 },
 
 {
@@ -12,7 +12,7 @@
 "age":12
 "class":"js1"
 "subjects":["maths","english","computer","home economics","agric"]
-"contact details":{"email":"motunrayo@gmail.com","phone":+2347078965490}
+"contact details":{"email":"motunrayo@gmail.com","phone":"+2347078965490"}
 },
 
 {
@@ -20,6 +20,6 @@
 "age":16
 "class":"ss3"
 "subjects":["english","agric","maths","physics"]
-"contact details":{"email":"aminat@gmail.com","phone":+2349087609542}
+"contact details":{"email":"aminat@gmail.com","phone":"+2349087609542"}
 }
 ]
