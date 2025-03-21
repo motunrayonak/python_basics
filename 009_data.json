@@ -1,0 +1,18 @@
+{
+"id":1,
+"brand":"toyota",
+"model":"corolla",
+"year":2012,
+"color":"black",
+"price":20000,
+"features":["air conditioning","bluetooth","backup camera","sunroof"],
+"engine":{
+"type":"petrol",
+"horsepower":150,
+"capacity":"1.8l"
+}
+}
+
+
+
+
