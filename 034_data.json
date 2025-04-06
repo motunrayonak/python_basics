@@ -1,0 +1,72 @@
+[
+  {
+    "ID":1,
+    "TITLE":"A man called ove",
+    "AUTHOR":"fredrik backman",
+    "YEAR OF PUBLICATION":2012,
+    "PRICE":13.99
+  },
+  {
+    "ID":2,
+    "TITLE":"The midnight library",
+    "AUTHOR":"matt haig",
+    "YEAR OF PUBLICATION":2020,
+    "PRICE":16.0
+  },
+  {
+    "ID":3,
+    "TITLE":"Educated",
+    "AUTHOR":"tara westove",
+    "YEAR OF PUBLICATION":2018,
+    "PRICE":15.55
+  },
+  {
+    "ID":4,
+    "TITLE":"Where the crawdads sing",
+    "AUTHOR":"delia owens",
+    "YEAR OF PUBLICATION":2018,
+    "PRICE":14.5
+  },
+  {
+    "ID":5,
+    "TITLE":"The four agreements",
+    "AUTHOR":"don mighel ruiz",
+    "YEAR OF PUBLICATION":1997,
+    "PRICE":8.99
+  },
+  {
+    "ID":6,
+    "TITLE":"Ikigai",
+    "AUTHOR":"francess miralles",
+    "YEAR OF PUBLICATION":2016,
+    "PRICE":11.95
+  },
+  {
+    "ID":7,
+    "TITLE":"The silent patient",
+    "AUTHOR":"alex michaelides",
+    "YEAR OF PUBLICATION":2019,
+    "PRICE":12.99
+  },
+  {
+    "ID":8,
+    "TITLE":"It ends with us",
+    "AUTHOR":"colleen hoover",
+    "YEAR OF PUBLICATION":2016,
+    "PRICE":13.5
+  },
+  {
+    "ID":9,
+    "TITLE":"The mountain is you",
+    "AUTHOR":"brianna wiest",
+    "YEAR OF PUBLICATION":2020,
+    "PRICE":14.0
+  },
+  {
+    "ID":10,
+    "TITLE":"Digital minimalism",
+    "AUTHOR":"cal new port",
+    "YEAR OF PUBLICATION":2019,
+    "PRICE":17.99
+  }
+]
